@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babjidurga&label=Profile%20views&color=0e75b6&style=flat" alt="babjidurga" /> </p>
 
-<img src = "https://i.gifer.com/QDyD.gif"  />
+<img align = "right" width = "400" src = "https://i.gifer.com/QDyD.gif"  />
 
 - 🔭 I’m currently working on **React JS**
 
