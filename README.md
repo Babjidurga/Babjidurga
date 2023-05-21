@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://babjiportfolio.ccbp.tech/](https://babjiportfolio.ccbp.tech/)
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP, PYTHON, SQL**
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP, PYTHON, SQL,Nodejs,ExpressJs, React Js**
 
 - 📫 How to reach me **Babji2662@gmail.com**
 
